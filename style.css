@@ -1,0 +1,11 @@
+h3{
+    background-color: red;
+    width: 17.5%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+canvas{
+    border: 10px royalblue;
+    border-style:double;
+}
